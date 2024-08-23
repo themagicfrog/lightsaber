@@ -4,7 +4,10 @@ A PCB lightsaber with a gyroscope! This was the first PCB I ever made and it was
 
 ![](https://github.com/themagicfrog/lightsaber/blob/main/pcbphoto2.JPG)
 
-I first designed the entire board separately with a lighthouse theme (as you can tell from the silkscreen), but then decided to change it up. 
+I first designed the entire board separately (with a lighthouse theme in mind as you can tell from the silkscreen), so the design and schematic are there if you want to take a look. Unforunately, there were some problems programming so I decided to switch it up and use some separate parts.
+
+And thank you [Thomas](https://github.com/serenityUX) and Kevin Yang for helping and encouraging me!
+
 
 Here are some really cool long-exposure light trail photos I took with it!
 
