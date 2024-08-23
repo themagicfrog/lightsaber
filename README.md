@@ -1,16 +1,31 @@
 # MAGIC FROG'S LIGHTSABER
 
-A PCB lightsaber with a gyroscope and accelerometer! This was the first PCB I ever made and it was originally for [The Trail](https://github.com/hackclub/the-trail), an event by [Hack Club](https://github.com/hackclub). This project was A LOT harder than I expected but I finished it in the end! :D
+This is a PCB lightsaber with a gyroscope and accelerometer! It was the first PCB I ever created and it was originally for [The Trail](https://github.com/hackclub/the-trail), an event by [Hack Club](https://github.com/hackclub). Although this project turned out to be a lot harder than I thought it would be, I finished it in the end! Wahoo! :D
 
-The faster you move it, the more LEDs light up. Each of the x, y, and z are assigned to red, blue or green. It has an Arundio Nano microcontroller, NeoPixel lights, and a MPU-6050 gyroscope and accelerometer.
+## Features
+
+- Ardunio Nano microcontroller
+- MPU-6050 gyroscope and accelerometer
+- strip of Neopixel lights
+  * More LEDs light up as you accelerate faster.
+  * Each axis (x, y, z) on the gyroscope control a different color: red, blue, or green.
 
 ![](https://github.com/themagicfrog/lightsaber/blob/main/pcbphotos/pcbphoto2.JPG )
 
-I first designed the entire board separately with a ATMEGA32u4 chip (and I designed it lighthouse themed as you can probably tell from the silkscreen), so the design and schematic are there if you want to take a look. There were a lot of problems though getting it working (though I did get to use an oscilloscope while trying to debug the bootloader issue that I encountered which was a ton of fun) so I decided to switch it up and switch to using an Ardunio Nano instead.
+## Design Journey
+- Initial Design
+  * I originally designed the entire board with an ATmega32U4 chip with a lighthouse theme because I was planning to 3D print a case and make a lighthouse desk lamp. The schematic and PCB design are in the main branch if you want to take a look.
+- Challenges
+  * There were a lot of different problems (though I did get to use an oscilloscope while trying to debug the bootloader issue that I encountered which was a ton of fun).
+- Final Decision
+  * I decided to switch it up and switch to using an Ardunio Nano instead which made everything so much smooter!
+ 
+## Acknowledgements
+Special thanks to [Thomas](https://github.com/serenityUX) and Kevin Yang for helping and encouraging me on the way!
 
-And lots of thanks to [Thomas](https://github.com/serenityUX) and Kevin Yang for helping and encouraging me!
 
-Here are some really cool long-exposure light photos I took with it!
+## Photos!!
+Here are some really cool long-exposure light photos I took with the lightsaber in action!
 
 ![](https://github.com/themagicfrog/lightsaber/blob/main/demophotos/demophoto1.JPG)
 ![](https://github.com/themagicfrog/lightsaber/blob/main/demophotos/demophoto2.JPG)
