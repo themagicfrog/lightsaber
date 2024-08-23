@@ -1,4 +1,4 @@
-# LIGHTSABER
+# MAGIC FROG'S LIGHTSABER
 
 A PCB lightsaber with a gyroscope and accelerometer! This was the first PCB I ever made and it was originally for [The Trail](https://github.com/hackclub/the-trail), an event by [Hack Club](https://github.com/hackclub). This project was A LOT harder than I expected but I finished it in the end! :D
 
