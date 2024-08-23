@@ -1,6 +1,6 @@
 # LIGHTSABER
 
-A PCB lightsaber with a gyroscope and accelerometer! This was the first PCB I ever made and it was originally for [The Trail](https://github.com/hackclub/the-trail), an event by [Hack Club](https://github.com/hackclub). This project was A LOT harder than I expected but I finished it in the end!
+A PCB lightsaber with a gyroscope and accelerometer! This was the first PCB I ever made and it was originally for [The Trail](https://github.com/hackclub/the-trail), an event by [Hack Club](https://github.com/hackclub). This project was A LOT harder than I expected but I finished it in the end! :D
 
 The faster you move it, the more LEDs light up. Each of the x, y, and z are assigned to red, blue or green. It has an Arundio Nano microcontroller, NeoPixel lights, and a MPU-6050 gyroscope and accelerometer.
 
