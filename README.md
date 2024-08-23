@@ -1,6 +1,6 @@
 # MAGIC FROG'S LIGHTSABER
 
-This is a PCB lightsaber with a gyroscope and accelerometer! It was originally for [The Trail](https://github.com/hackclub/the-trail), an event by [Hack Club](https://github.com/hackclub). Although this project turned out to be a lot harder than I expected, I finished it in the end! Wahoo! :D
+This is a PCB lightsaber controlled by a gyroscope and accelerometer that I designed. I created it originally for [The Trail](https://github.com/hackclub/the-trail), an event organized by [Hack Club](https://github.com/hackclub). I initially designed the entire board with a ATmeag32U4 chip. The schematic and PCB design are available in the main branch if you want to take a look. I encountered a lot of problems along way and decided to use an Ardunio Nano instead, which made everything so much smoother! I used my PCB board as a base and connected the Ardunio Nano with external wires. 
 
 ## Features
 - LEDs controlled by gyroscope and accelerometer
