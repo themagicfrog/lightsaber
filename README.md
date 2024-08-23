@@ -8,7 +8,7 @@ I first designed the entire board separately with a lighthouse theme (as you can
 
 Here are some really cool long-exposure light trail photos I took with it!
 
-![](https://github.com/themagicfrog/lightsaber/blob/main/demophoto1.JPG)
+![](https://github.com/themagicfrog/lightsaber/blob/main/demophotos/demophoto1.JPG)
 ![](https://github.com/themagicfrog/lightsaber/blob/main/demophoto2.JPG)
 ![](https://github.com/themagicfrog/lightsaber/blob/main/demophoto3.JPG)
 ![](https://github.com/themagicfrog/lightsaber/blob/main/demophoto4.JPG)
