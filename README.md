@@ -28,7 +28,8 @@ Here are some really cool long-exposure light photos I took with the lightsaber 
 ![](https://github.com/themagicfrog/lightsaber/blob/main/demophotos/demophoto5.JPG)
 
 ## Video
-[Demo](https://youtu.be/aVmNQV3bQB4)[      Making](https://youtu.be/FEkJ6_g3jb8)
+[Demo](https://youtu.be/aVmNQV3bQB4)
+[Making](https://youtu.be/FEkJ6_g3jb8)
 
 ## Acknowledgements
 Special thanks to [Thomas Stubblefield](https://github.com/serenityUX), Kevin Yang, and [Isaac Davenport](https://isaacdavenport.com/) for helping and encouraging me on the way!
